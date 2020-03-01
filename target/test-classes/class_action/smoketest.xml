@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automtiaon Test Suite" parallel="none" >
+    <test name="Yahoo Test">
+        <classes>
+            <class name="class_action.Yahoo_Signin" />
+        </classes>
+    </test>
+</suite>
